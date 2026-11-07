@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1 style="font-weight: bold; margin-bottom: 0;">Hi 👋, I'm Sevenbyte</h1>
-  <p style="font-size: 1.1em; color: #8b949e; margin-top: 5px;">Solo Developer • Cybersecurity Rookie • Gray Hat</p>
+  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi 👋, I'm Sevenbyte</p>
+  <p style="font-size: 1.1em; color: #8b949e; margin-top: 5px;">Solo Developer | Cybersecurity Rookie | Gray Hat</p>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Automate;Bongkar+dulu%2C+baru+otomasi.;If+it+can+be+automated%2C+automate+it." alt="Typing SVG" />
@@ -14,45 +14,77 @@
     <img src="https://komarev.com/ghpvc/?username=fly3417&label=Views&color=0e75b6&style=flat-square" alt="Views" />
   </p>
 
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
+  <blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none;">
+    <b>[+]</b> Current_Project: 7Pwn automation tools & Arsenal.<br>
+    <b>[+]</b> Learning_Path: Reverse Engineering & Network Protocols.<br>
+    <b>[+]</b> Collaborate_On: Security Research, Red Teaming, Node.js.<br>
+    <b>[+]</b> Seek_Help_With: Exploit development & Bug Bounty.<br>
+    <b>[+]</b> Ask_Me_About: Termux, Fuzzing, or Gray Hat stuff.<br>
+    <b>[>]</b> Fun_Fact: "Bongkar dulu, baru otomasi."
+  </blockquote>
+
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">💻 Tech Stack</p>
+  
+  <p align="center">
+    <i>Languages & Scripting</i><br>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <i>Cloud & DevOps</i><br>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <i>Frameworks & Databases</i><br>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <i>Tools & Hardware</i><br>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white" />
+    <img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat-square&logo=tampermonkey&logoColor=white" />
+  </p>
+
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Stats</p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=5" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=5" alt="GitHub Streak" height="150" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=5" alt="Top Languages" />
+  </p>
+
+  <br>
+  
+  <p style="font-family: monospace; color: #00FF00; background-color: #0D1117; padding: 10px; border-radius: 5px; display: inline-block;">
+    > "Build to understand. Break to secure. Automate to scale."_
+  </p>
+
 </div>
-
-<br>
-
-> **💫 About Me**
-> 
-> `[+]` Building **7Pwn** automation tools & personal Arsenal.
-> `[+]` Learning **Reverse Engineering** & Network Protocols.
-> `[+]` Open to collaborate on **Security Research** & Red Teaming.
-> `[>]` *"Kalau belum paham, bongkar dulu. Kalau udah paham, otomasi."*
-
-<br>
-
-> **💻 Tech Stack**
-> 
-> **`Languages & Scripting`**<br>
-> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
->
-> **`Cloud & DevOps`**<br>
-> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
->
-> **`Databases & Tools`**<br>
-> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-<br>
-
-> **📊 GitHub Analytics**
-> 
-> <p align="center">
->   <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=4" alt="GitHub Stats" height="150" />
->   <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=4" alt="GitHub Streak" height="150" />
-> </p>
-> 
-> <p align="center">
->   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&v=4" alt="Top Languages" />
-> </p>
-
-<br>
-
-<p align="center">
-  <i>"Build to understand. Break to secure. Automate to scale."</i>
-</p>
