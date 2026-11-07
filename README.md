@@ -17,11 +17,14 @@
   <br>
 
  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-<blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.6;">
-  - <b>What I do:</b> Build → Break → Understand → Automate.<br>
-  - <b>What I learn:</b> Network Protocols & Reverse Engineering.<br>
-  - <b>What I use:</b> Node.js, Python, Termux.<br>
-  - <b>Status:</b> Bongkar dulu, baru otomasi.
+<blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.5;">
+  <span style="color: #00FF00;">user@sevenbyte:~$</span> cat profile.txt<br>
+  -------------------------<br>
+  OS: Linux / Termux<br>
+  Focus: Exploit Dev, Fuzzing, Network Security<br>
+  Current: Building 7Pwn automation tools<br>
+  Mindset: Build -> Break -> Understand -> Automate<br>
+  <span style="color: #00FF00;">user@sevenbyte:~$</span> _
 </blockquote>
   <br>
 
