@@ -29,7 +29,7 @@
     <span style="color: #00FF00;">user@sevenbyte:~$</span> cat profile.txt<br>
     -------------------------<br>
     OS: Linux / Termux<br>
-    Focus: Exploit Dev, Fuzzing, Network Security<br>
+    Focus: Bug Hunter, Web Pentesting, Fuzzing<br>
     Current: Building 7Pwn automation tools<br>
     Mindset: Build -> Break -> Understand -> Automate<br>
     <span style="color: #00FF00;">user@sevenbyte:~$</span> _
@@ -90,12 +90,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=9" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=9" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=13" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=13" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=9" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=13" alt="Top Languages" />
   </p>
 
   <br>
@@ -110,6 +110,15 @@
   <p style="font-size: 1.3em; font-weight: bold;">⏱️ Productive Time</p>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fly3417&theme=radical&utcOffset=7" alt="Productive Time" />
+  </p>
+
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">🎧 Favorite Track</p>
+  <p align="center">
+    <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">
+      <img src="https://img.shields.io/badge/Now_Playing-Ain't_In_LA_(ADÉLA)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
+    </a>
   </p>
 
   <br>
