@@ -7,6 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Automate;Bongkar+dulu%2C+baru+otomasi.;If+it+can+be+automated%2C+automate+it." alt="Typing SVG" />
   </p>
 
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🐱+Coding+in+progress...;💻+Hacking+the+mainframe...;☕+Brewing+coffee..." alt="Coding Cat" />
+  </p>
+
   <p>
     <a href="https://saweria.co/Sevenbyte"><img src="https://img.shields.io/badge/Support-Saweria-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Saweria" /></a>
     <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Chat-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -86,12 +90,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=8" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=8" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=9" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=9" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=9" alt="Top Languages" />
   </p>
 
   <br>
