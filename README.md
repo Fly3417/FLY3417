@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Sevenbyte</h1>
-  <h3>🛡️ Solo Developer | Cybersecurity Rookie | Gray Hat 🛡️</h3>
+  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi 👋, I'm Sevenbyte</p>
+  <p style="font-size: 1.2em; margin-top: 5px;">🛡️ Solo Developer | Cybersecurity Rookie | Gray Hat 🛡️</p>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Automate;Bongkar+dulu%2C+baru+otomasi.;If+it+can+be+automated%2C+automate+it." alt="Typing SVG" />
@@ -25,10 +25,10 @@
 
   <br>
 
-  <h3>🛠️ Languages & Arsenal</h3>
+  <p style="font-size: 1.5em; font-weight: bold;">🛠️ Languages & Arsenal</p>
   <p><i>My daily drivers and research tools, categorized.</i></p>
 
-  <h4>💻 Backend & Databases</h4>
+  <p style="font-size: 1.2em; font-weight: bold;">💻 Backend & Databases</p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
@@ -45,7 +45,7 @@
     </tr>
   </table>
 
-  <h4>🎨 Frontend & Web</h4>
+  <p style="font-size: 1.2em; font-weight: bold;">🎨 Frontend & Web</p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br><sub><b>JS</b></sub></td>
@@ -55,10 +55,10 @@
     </tr>
   </table>
 
-  <h4>☁️ Cloud & DevOps</h4>
+  <p style="font-size: 1.2em; font-weight: bold;">☁️ Cloud & DevOps</p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
-      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" /><br><sub><b>GCP</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br><sub><b>Docker</b></sub></td>
@@ -71,7 +71,7 @@
     </tr>
   </table>
 
-  <h4>🐧 OS & Security</h4>
+  <p style="font-size: 1.2em; font-weight: bold;">🐧 OS & Security</p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
       <td align="center" width="90" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br><sub><b>Bash</b></sub></td>
@@ -85,7 +85,7 @@
 
   <br>
 
-  <h3>📊 GitHub Analytics</h3>
+  <p style="font-size: 1.5em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
     <img src="https://devcard.pavegy.workers.dev/api?username=fly3417&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
