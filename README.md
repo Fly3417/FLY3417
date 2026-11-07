@@ -17,15 +17,14 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-  <blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none;">
-    <b>[+]</b> Current_Project: 7Pwn automation tools & Arsenal.<br>
-    <b>[+]</b> Learning_Path: Reverse Engineering & Network Protocols.<br>
-    <b>[+]</b> Collaborate_On: Security Research, Red Teaming, Node.js.<br>
-    <b>[+]</b> Seek_Help_With: Exploit development & Bug Bounty.<br>
-    <b>[+]</b> Ask_Me_About: Termux, Fuzzing, or Gray Hat stuff.<br>
-    <b>[>]</b> Fun_Fact: "Bongkar dulu, baru otomasi."
-  </blockquote>
-
+  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
+<blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.6;">
+  <b>Identity</b> &nbsp;&nbsp;&nbsp;: Solo Builder & Security Enthusiast<br>
+  <b>Mission</b> &nbsp;&nbsp;&nbsp;&nbsp;: Build tools, break systems, automate the rest.<br>
+  <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Weaponizing 7Pwn arsenal & Network Protocols.<br>
+  <b>Stack</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Node.js, Python, Termux, Bash.<br>
+  <b>Philosophy</b> : "Bongkar dulu, baru otomasi."
+</blockquote>
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">💻 Tech Stack</p>
