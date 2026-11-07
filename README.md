@@ -11,21 +11,30 @@
     <a href="https://saweria.co/Sevenbyte"><img src="https://img.shields.io/badge/Support-Saweria-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Saweria" /></a>
     <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Chat-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://github.com/Fly3417"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://komarev.com/ghpvc/?username=fly3417&label=Views&color=0e75b6&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=fly3417&label=Visitors&color=00FF00&style=flat-square" alt="Visitors" />
   </p>
 
   <br>
 
- <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-<blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.5;">
-  <span style="color: #00FF00;">user@sevenbyte:~$</span> cat profile.txt<br>
-  -------------------------<br>
-  OS: Linux / Termux<br>
-  Focus: Exploit Dev, Fuzzing, Network Security<br>
-  Current: Building 7Pwn automation tools<br>
-  Mindset: Build -> Break -> Understand -> Automate<br>
-  <span style="color: #00FF00;">user@sevenbyte:~$</span> _
-</blockquote>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider" />
+  
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
+  <blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.5;">
+    <span style="color: #00FF00;">user@sevenbyte:~$</span> cat profile.txt<br>
+    -------------------------<br>
+    OS: Linux / Termux<br>
+    Focus: Exploit Dev, Fuzzing, Network Security<br>
+    Current: Building 7Pwn automation tools<br>
+    Mindset: Build -> Break -> Understand -> Automate<br>
+    <span style="color: #00FF00;">user@sevenbyte:~$</span> _
+  </blockquote>
+
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider" />
+  
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">💻 Tech Stack</p>
@@ -69,16 +78,34 @@
   </p>
 
   <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider" />
+  
+  <br>
 
-  <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Stats</p>
+  <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=5" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=5" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=7" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=7" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=5" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=7" alt="Top Languages" />
+  </p>
+
+  <br>
+
+  <p style="font-size: 1.3em; font-weight: bold;">🐍 Contribution Snake</p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </p>
+
+  <br>
+  
+  <p style="font-size: 1.3em; font-weight: bold;">⏱️ Productive Time</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fly3417&theme=radical&utcOffset=7" alt="Productive Time" />
   </p>
 
   <br>
