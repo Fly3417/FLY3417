@@ -16,14 +16,12 @@
 
   <br>
 
-  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
+ <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
 <blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.6;">
-  <b>Identity</b> &nbsp;&nbsp;&nbsp;: Solo Builder & Security Enthusiast<br>
-  <b>Mission</b> &nbsp;&nbsp;&nbsp;&nbsp;: Build tools, break systems, automate the rest.<br>
-  <b>Focus</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Weaponizing 7Pwn arsenal & Network Protocols.<br>
-  <b>Stack</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Node.js, Python, Termux, Bash.<br>
-  <b>Philosophy</b> : "Bongkar dulu, baru otomasi."
+  - <b>What I do:</b> Build → Break → Understand → Automate.<br>
+  - <b>What I learn:</b> Network Protocols & Reverse Engineering.<br>
+  - <b>What I use:</b> Node.js, Python, Termux.<br>
+  - <b>Status:</b> Bongkar dulu, baru otomasi.
 </blockquote>
   <br>
 
