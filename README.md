@@ -58,7 +58,7 @@
   <p style="font-size: 1.2em; font-weight: bold;">☁️ Cloud & DevOps</p>
   <table align="center" style="border: none;">
     <tr style="border: none;">
-      <td align="center" width="90" style="border: none;"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" /><br><sub><b>GCP</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
       <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br><sub><b>Docker</b></sub></td>
@@ -88,12 +88,12 @@
   <p style="font-size: 1.5em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://devcard.pavegy.workers.dev/api?username=fly3417&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=fly3417&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="GitHub Streak" height="150" />
+    <img src="https://devcard.pavegy.workers.dev/api?username=fly3417&show_icons=true&theme=radical&v=1" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=fly3417&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&v=1" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://devcard.pavegy.workers.dev/api/top-langs?username=fly3417&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+    <img src="https://devcard.pavegy.workers.dev/api/top-langs?username=fly3417&layout=compact&theme=radical&langs_count=8&v=1" alt="Top Languages" />
   </p>
 
   <br>
