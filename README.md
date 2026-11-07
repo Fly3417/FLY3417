@@ -17,14 +17,15 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-  <p align="center" style="font-family: monospace; font-size: 14px; text-align: left; display: inline-block;">
-    [+] Current_Project: 7Pwn automation tools & Arsenal.<br>
-    [+] Learning_Path: Reverse Engineering & Network Protocols.<br>
-    [+] Collaborate_On: Security Research, Red Teaming, Node.js.<br>
-    [+] Seek_Help_With: Exploit development & Bug Bounty.<br>
-    [+] Ask_Me_About: Termux, Fuzzing, or Gray Hat stuff.<br>
-    [>] Fun_Fact: "Bongkar dulu, baru otomasi."
-  </p>
+  
+  <table align="center" style="border: none; font-family: monospace; font-size: 14px; text-align: left;">
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[+]</b></td><td style="border: none; padding: 2px 10px;">Current_Project: 7Pwn automation tools & Arsenal.</td></tr>
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[+]</b></td><td style="border: none; padding: 2px 10px;">Learning_Path: Reverse Engineering & Network Protocols.</td></tr>
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[+]</b></td><td style="border: none; padding: 2px 10px;">Collaborate_On: Security Research, Red Teaming, Node.js.</td></tr>
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[+]</b></td><td style="border: none; padding: 2px 10px;">Seek_Help_With: Exploit development & Bug Bounty.</td></tr>
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[+]</b></td><td style="border: none; padding: 2px 10px;">Ask_Me_About: Termux, Fuzzing, or Gray Hat stuff.</td></tr>
+    <tr style="border: none;"><td style="border: none; padding: 2px 10px;"><b>[>]</b></td><td style="border: none; padding: 2px 10px;">Fun_Fact: "Bongkar dulu, baru otomasi."</td></tr>
+  </table>
 
   <br>
 
@@ -73,12 +74,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Stats</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=2" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=3" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=2" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=3" alt="Top Languages" />
   </p>
 
   <br>
