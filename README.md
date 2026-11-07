@@ -86,19 +86,19 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=7" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=7" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=8" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=8" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=7" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=8" alt="Top Languages" />
   </p>
 
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">🐍 Contribution Snake</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/output/github-snake.svg" alt="Snake animation" />
   </p>
 
   <br>
