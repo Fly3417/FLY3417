@@ -23,67 +23,67 @@
     </a>
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br>
 
   <h3>🛠️ Languages & Arsenal</h3>
   <p><i>My daily drivers and research tools, categorized.</i></p>
 
   <h4>💻 Backend & Databases</h4>
-  <table align="center">
-    <tr>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><sub><b>Python</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /><br><sub><b>Go</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" /><br><sub><b>Rust</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br><sub><b>PHP</b></sub></td>
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><sub><b>Python</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /><br><sub><b>Go</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" /><br><sub><b>Rust</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br><sub><b>PHP</b></sub></td>
     </tr>
-    <tr>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
-      <td align="center" width="90"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL" /><br><sub><b>MSSQL</b></sub></td>
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL" /><br><sub><b>MSSQL</b></sub></td>
     </tr>
   </table>
 
   <h4>🎨 Frontend & Web</h4>
-  <table align="center">
-    <tr>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br><sub><b>JS</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br><sub><b>Express</b></sub></td>
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /><br><sub><b>JS</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br><sub><b>Express</b></sub></td>
     </tr>
   </table>
 
   <h4>☁️ Cloud & DevOps</h4>
-  <table align="center">
-    <tr>
-      <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
-      <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" /><br><sub><b>GCP</b></sub></td>
-      <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br><sub><b>Docker</b></sub></td>
-      <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br><sub><b>Git</b></sub></td>
-      <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku" /><br><sub><b>Heroku</b></sub></td>
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /><br><sub><b>AWS</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" /><br><sub><b>GCP</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /><br><sub><b>Docker</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br><sub><b>Git</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku" /><br><sub><b>Heroku</b></sub></td>
     </tr>
-    <tr>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /><br><sub><b>Nginx</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" /><br><sub><b>Android</b></sub></td>
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /><br><sub><b>Nginx</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" /><br><sub><b>Android</b></sub></td>
     </tr>
   </table>
 
   <h4>🐧 OS & Security</h4>
-  <table align="center">
-    <tr>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-      <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash" /><br><sub><b>Bash</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br><sub><b>C</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br><sub><b>C++</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br><sub><b>C#</b></sub></td>
-      <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br><sub><b>Java</b></sub></td>
+  <table align="center" style="border: none;">
+    <tr style="border: none;">
+      <td align="center" width="90" style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br><sub><b>Bash</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br><sub><b>Linux</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br><sub><b>C</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br><sub><b>C++</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br><sub><b>C#</b></sub></td>
+      <td align="center" width="90" style="border: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br><sub><b>Java</b></sub></td>
     </tr>
   </table>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br>
 
   <h3>📊 GitHub Analytics</h3>
   
