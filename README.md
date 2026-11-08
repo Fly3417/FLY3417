@@ -84,12 +84,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=33" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=33" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=30" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=30" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=33" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=30" alt="Top Languages" />
   </p>
 
   <br>
@@ -117,12 +117,6 @@
     <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">
       <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
     </a>
-  </p>
-
-  <br>
-
-  <p align="left" style="font-size: 13px; color: #8b949e; max-width: 800px; margin: 0 auto;">
-    <b>About:</b> I am a <b>Solo Developer</b> and <b>Cyber Enthusiast</b> focused on building lightweight security automation tools (Node.js & Python) for Termux/Linux. I love exploring offensive security, hardware hacking (ESP32, Flipper Zero), and documenting my journey. Reach me at <a href="https://t.me/Sevenbyte7">Telegram</a> or <a href="mailto:sevenbyte071@gmail.com">Email</a>.
   </p>
 
   <br>
