@@ -103,12 +103,11 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">🎧 Favorite Track</p>
-  <p align="center">
-    <a href="https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo?si=xZxdiK6dTCG3tZX4vctkJw&utm_source=copy-link" target="_blank">
-      <img src="https://img.shields.io/badge/Now_Playing-LEGACY-(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
-    </a>
-  </p>
-
+<p align="center">
+  <a href="https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo" target="_blank">
+    <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
+  </a>
+</p>
   <br>
   
   <p style="font-family: monospace; color: #00FF00; background-color: #0D1117; padding: 10px; border-radius: 5px; display: inline-block;">
