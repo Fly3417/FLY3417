@@ -6,45 +6,8 @@
 
   <br>
 
-  <!-- Animasi Kucing Hitam Berjalan -->
   <p align="center">
-    <svg width="100%" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-      <style>
-        .cat { animation: walk 6s linear infinite; }
-        @keyframes walk {
-          0% { transform: translateX(0px); }
-          50% { transform: translateX(500px) scaleX(-1); }
-          50.01% { transform: translateX(500px) scaleX(-1); }
-          100% { transform: translateX(0px) scaleX(1); }
-        }
-        .line { stroke: #00FF00; stroke-width: 2; stroke-dasharray: 10, 10; }
-        .body { fill: #000000; stroke: #333333; stroke-width: 1; }
-        .eye { fill: #00FF00; }
-      </style>
-      
-      <!-- Garis -->
-      <line x1="50" y1="50" x2="550" y2="50" class="line" />
-      
-      <!-- Kucing Pixel Art -->
-      <g class="cat" transform="translate(50, 10)">
-        <!-- Ekor -->
-        <rect x="30" y="25" width="10" height="10" class="body" />
-        <rect x="40" y="15" width="10" height="10" class="body" />
-        <!-- Badan -->
-        <rect x="10" y="20" width="20" height="20" class="body" />
-        <!-- Kepala -->
-        <rect x="0" y="10" width="15" height="15" class="body" />
-        <!-- Telinga -->
-        <rect x="0" y="5" width="5" height="5" class="body" />
-        <rect x="10" y="5" width="5" height="5" class="body" />
-        <!-- Mata -->
-        <rect x="3" y="15" width="3" height="3" class="eye" />
-        <rect x="9" y="15" width="3" height="3" class="eye" />
-        <!-- Kaki -->
-        <rect x="12" y="40" width="5" height="10" class="body" />
-        <rect x="22" y="40" width="5" height="10" class="body" />
-      </g>
-    </svg>
+    <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/main/assets/cat-walk.svg" width="100%" />
   </p>
 
   <br>
@@ -111,12 +74,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=21" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=21" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=23" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=23" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=21" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=23" alt="Top Languages" />
   </p>
 
   <br>
