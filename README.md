@@ -12,9 +12,10 @@
 
   <br>
 
+  <!-- Badge Telegram & Kontak -->
   <p>
     <a href="https://saweria.co/Sevenbyte"><img src="https://img.shields.io/badge/Support-Saweria-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Saweria" /></a>
-    <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Chat-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Telegram-@Sevenbyte7-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://github.com/Fly3417"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://komarev.com/ghpvc/?username=fly3417&label=Visitors&color=00FF00&style=flat-square" alt="Visitors" />
   </p>
@@ -117,6 +118,21 @@
     <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">
       <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
     </a>
+  </p>
+
+  <br>
+
+  <!-- About Me dalam bentuk Badge -->
+  <p style="font-size: 1.3em; font-weight: bold;">👤 About Me</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Role-Solo_Developer-00FF00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Cyber_Enthusiast-00FF00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Interest-Hardware_Hacking-00FF00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Loves-ESP32_&_Flipper_Zero-00FF00?style=flat-square" />
+  </p>
+  
+  <p align="center" style="font-size: 13px; color: #8b949e;">
+    <i>Building lightweight security automation tools (Node.js & Python) for Termux/Linux.</i>
   </p>
 
   <br>
