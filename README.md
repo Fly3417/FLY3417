@@ -40,6 +40,13 @@
   </p>
 
   <p align="center">
+    <i>Security & OS</i><br>
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" />
+  </p>
+
+  <p align="center">
     <i>Cloud & DevOps</i><br>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
@@ -63,6 +70,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
     <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&logo=tor-project&logoColor=white" />
     <img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat-square&logo=tampermonkey&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </p>
 
   <br>
@@ -74,12 +82,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=26" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=26" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=27" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=27" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=26" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=27" alt="Top Languages" />
   </p>
 
   <br>
@@ -103,11 +111,12 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">🎧 Favorite Track</p>
-<p align="center">
-  <a href="https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">
+      <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
+    </a>
+  </p>
+
   <br>
   
   <p style="font-family: monospace; color: #00FF00; background-color: #0D1117; padding: 10px; border-radius: 5px; display: inline-block;">
