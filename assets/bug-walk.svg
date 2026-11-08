@@ -1,46 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40" viewBox="0 0 600 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 400 200">
   <style>
-    .bug-group {
-      animation: walk 8s linear infinite;
+    /* Animasi jalur kotak (kiri -> atas -> kanan -> bawah) */
+    .bug-path {
+      animation: walkBox 8s linear infinite;
     }
-    @keyframes walk {
-      0%   { transform: translateX(20px) scaleX(1); }
-      45%  { transform: translateX(560px) scaleX(1); }
-      50%  { transform: translateX(560px) scaleX(-1); }
-      95%  { transform: translateX(20px) scaleX(-1); }
-      100% { transform: translateX(20px) scaleX(1); }
+    @keyframes walkBox {
+      0%   { transform: translate(50px, 50px) rotate(90deg); }
+      25%  { transform: translate(50px, 150px) rotate(0deg); }
+      50%  { transform: translate(350px, 150px) rotate(90deg); }
+      75%  { transform: translate(350px, 50px) rotate(180deg); }
+      100% { transform: translate(50px, 50px) rotate(270deg); }
     }
+    
+    /* Animasi kaki berjalan */
     .leg {
-      animation: wiggle 0.3s linear infinite alternate;
+      animation: wiggle 0.2s linear infinite alternate;
     }
     @keyframes wiggle {
       0% { transform: translateY(0); }
-      100% { transform: translateY(-2px); }
+      100% { transform: translateY(2px); }
     }
-    .line {
+
+    /* Garis kotak (jalur) */
+    .path-line {
       stroke: #00FF00;
       stroke-width: 2;
       stroke-dasharray: 10, 10;
+      fill: none;
     }
   </style>
 
-  <!-- Garis Hijau -->
-  <line x1="0" y1="30" x2="600" y2="30" class="line" />
+  <!-- Kotak Jalur -->
+  <rect x="50" y="50" width="300" height="100" class="path-line" />
 
-  <!-- Kumbang Pixel Art -->
-  <g class="bug-group">
-    <!-- Tubuh -->
-    <rect x="10" y="15" width="15" height="10" fill="#00FF00" rx="2" />
-    <rect x="15" y="12" width="5" height="3" fill="#00FF00" />
-    <!-- Kepala -->
-    <rect x="25" y="16" width="5" height="8" fill="#00FF00" />
-    <!-- Mata -->
-    <rect x="28" y="17" width="2" height="2" fill="#000000" />
+  <!-- Kumbang Top-Down -->
+  <g class="bug-path">
+    <!-- Tubuh (Oval memanjang dari atas ke bawah) -->
+    <rect x="-5" y="-10" width="10" height="20" fill="#00FF00" rx="3" />
+    <!-- Kepala (bagian atas) -->
+    <rect x="-4" y="-14" width="8" height="5" fill="#00FF00" />
     <!-- Antena -->
-    <rect x="29" y="12" width="1" height="4" fill="#00FF00" />
-    <!-- Kaki -->
-    <rect class="leg" x="12" y="25" width="2" height="5" fill="#00FF00" />
-    <rect class="leg" x="17" y="25" width="2" height="5" fill="#00FF00" />
-    <rect class="leg" x="22" y="25" width="2" height="5" fill="#00FF00" />
+    <rect x="-2" y="-18" width="1" height="4" fill="#00FF00" />
+    <rect x="1" y="-18" width="1" height="4" fill="#00FF00" />
+    <!-- Kaki Kiri -->
+    <rect class="leg" x="-10" y="-8" width="5" height="2" fill="#00FF00" />
+    <rect class="leg" x="-10" y="0" width="5" height="2" fill="#00FF00" />
+    <rect class="leg" x="-10" y="8" width="5" height="2" fill="#00FF00" />
+    <!-- Kaki Kanan -->
+    <rect class="leg" x="5" y="-8" width="5" height="2" fill="#00FF00" />
+    <rect class="leg" x="5" y="0" width="5" height="2" fill="#00FF00" />
+    <rect class="leg" x="5" y="8" width="5" height="2" fill="#00FF00" />
   </g>
 </svg>
