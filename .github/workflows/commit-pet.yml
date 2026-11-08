@@ -24,3 +24,4 @@ jobs:
           name: SevenBytePet
           output: commit-pet.svg
           theme: en
+          # trigger
