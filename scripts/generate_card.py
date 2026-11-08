@@ -17,7 +17,7 @@ PROFILE_FIELDS = [
     ("Stack.Scripting", "python, bash, node.js"),
     ("Stack.Security", "burp suite, fuzzing, recon"),
     ("Environment", "linux, termux, git"),
-    ("Interests", "gray hat research"),
+    ("Interests", "cyber enthusiast"),  # <-- Diubah dari gray hat
     ("Contact.GitHub", f"github.com/{LOGIN}"),
     ("Contact.Telegram", "t.me/Sevenbyte7"),
 ]
@@ -46,7 +46,7 @@ PROMPT_CHAR_W = 9.0
 RAMP = " .:+#@"
 CELL_W = 8.4
 CELL_H = 15.0
-ART_COLS = 60  # Ditingkatkan dari 40 agar lebih detail
+ART_COLS = 60
 TITLEBAR_H = 34
 
 def find_avatar():
@@ -73,22 +73,15 @@ def ascii_rows_from_image(path):
     arr = np.array(img).astype(np.float32)
     rgb = arr[..., :3]
 
-    # Ekstraksi Kanal Merah (Red) secara spesifik
     r = rgb[..., 0]
     g = rgb[..., 1]
     b = rgb[..., 2]
     
-    # Deteksi: Jika nilai Red tinggi dan Green/Blue rendah (Warna Merah Bunga)
-    # Kita juga menambahkan luminance untuk menangkap bayangan gelap pada tangkai
     is_red = (r > 40) & (r > g * 1.5) & (r > b * 1.5)
-    
-    # Membuat mask (topeng) berdasarkan deteksi warna merah
     alpha = np.where(is_red, 255, 0)
 
     rows = max(1, round(ART_COLS * (CELL_W / CELL_H)))
     mask_img = Image.fromarray(alpha.astype(np.uint8), mode="L").resize((ART_COLS, rows), Image.LANCZOS)
-    
-    # Gunakan gambar grayscale untuk menentukan kerapatan karakter (RAMP)
     gray_img = Image.fromarray(rgb.astype(np.uint8)).convert("L").resize((ART_COLS, rows), Image.LANCZOS)
     mask_px = mask_img.load()
     gray_px = gray_img.load()
@@ -98,14 +91,10 @@ def ascii_rows_from_image(path):
         line = []
         for x in range(ART_COLS):
             fg = mask_px[x, y] / 255.0
-            # Threshold lebih rendah agar lekukan tipis tetap masuk
             if fg < 0.3: 
                 line.append(" ")
                 continue
-            
             lum = gray_px[x, y] / 255.0
-            # Karena background hitam, piksel merah terang akan punya Luminance sedang.
-            # Kita balik agar area terang jadi padat (@)
             idx = min(len(RAMP) - 2, int((1.0 - lum) * (len(RAMP) - 1)))
             line.append(RAMP[idx])
         out_rows.append("".join(line))
