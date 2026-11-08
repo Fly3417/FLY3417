@@ -1,5 +1,9 @@
 <div align="center">
 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
+  </p>
+
   <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi 👋, I'm Sevenbyte</p>
   <p style="font-size: 1.1em; color: #8b949e; margin-top: 5px;">Solo Developer | Cybersecurity Rookie | Gray Hat</p>
   
@@ -90,12 +94,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=16" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=16" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=17" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=17" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=16" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=17" alt="Top Languages" />
   </p>
 
   <br>
