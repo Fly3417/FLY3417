@@ -12,7 +12,6 @@
 
   <br>
 
-  <!-- Badge Telegram & Kontak -->
   <p>
     <a href="https://saweria.co/Sevenbyte"><img src="https://img.shields.io/badge/Support-Saweria-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Saweria" /></a>
     <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Telegram-@Sevenbyte7-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -122,13 +121,13 @@
 
   <br>
 
-  <!-- About Me dalam bentuk Badge -->
+  <!-- About Me Badge (Ungu) -->
   <p style="font-size: 1.3em; font-weight: bold;">👤 About Me</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Role-Solo_Developer-00FF00?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-Cyber_Enthusiast-00FF00?style=flat-square" />
-    <img src="https://img.shields.io/badge/Interest-Hardware_Hacking-00FF00?style=flat-square" />
-    <img src="https://img.shields.io/badge/Loves-ESP32_&_Flipper_Zero-00FF00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Role-Solo_Developer-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Cyber_Enthusiast-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Interest-Hardware_Hacking-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Loves-ESP32_&_Flipper_Zero-8A2BE2?style=flat-square" />
   </p>
   
   <p align="center" style="font-size: 13px; color: #8b949e;">
