@@ -4,15 +4,8 @@
     <img src="https://raw.githubusercontent.com/Fly3417/Fly3417/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
   </p>
 
-  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi 👋, I'm Sevenbyte</p>
-  <p style="font-size: 1.1em; color: #8b949e; margin-top: 5px;">Solo Developer | Cybersecurity Rookie | Gray Hat</p>
-  
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Automate;Bongkar+dulu%2C+baru+otomasi.;If+it+can+be+automated%2C+automate+it." alt="Typing SVG" />
-  </p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🐱+Coding+in+progress...;💻+Hacking+the+mainframe...;☕+Brewing+coffee..." alt="Coding Cat" />
   </p>
 
   <p>
@@ -24,23 +17,6 @@
 
   <br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider" />
-  
-  <br>
-
-  <p style="font-size: 1.3em; font-weight: bold;">💫 About Me</p>
-  <blockquote style="border-left: 3px solid #00FF00; padding-left: 15px; text-align: left; display: inline-block; font-family: monospace; font-size: 14px; color: #c9d1d9; background: none; line-height: 1.5;">
-    <span style="color: #00FF00;">user@sevenbyte:~$</span> cat profile.txt<br>
-    -------------------------<br>
-    OS: Linux / Termux<br>
-    Focus: Bug Hunter, Web Pentesting, Fuzzing<br>
-    Current: Building 7Pwn automation tools<br>
-    Mindset: Build -> Break -> Understand -> Automate<br>
-    <span style="color: #00FF00;">user@sevenbyte:~$</span> _
-  </blockquote>
-
-  <br>
-  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider" />
   
   <br>
@@ -94,12 +70,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=17" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=17" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=18" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=18" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=17" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=18" alt="Top Languages" />
   </p>
 
   <br>
