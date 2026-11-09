@@ -12,9 +12,11 @@
 
   <br>
 
+  <p style="font-size: 1.3em; font-weight: bold;">🤝 Connect with Me</p>
   <p>
     <a href="https://saweria.co/Sevenbyte"><img src="https://img.shields.io/badge/Support-Saweria-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Saweria" /></a>
     <a href="https://t.me/Sevenbyte7"><img src="https://img.shields.io/badge/Telegram-@Sevenbyte7-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:sevenbyte071@gmail.com"><img src="https://img.shields.io/badge/Email-sevenbyte071%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Fly3417"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://komarev.com/ghpvc/?username=fly3417&label=Visitors&color=00FF00&style=flat-square" alt="Visitors" />
   </p>
@@ -84,12 +86,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=34" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=34" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=35" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=35" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=34" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=35" alt="Top Languages" />
   </p>
 
   <br>
