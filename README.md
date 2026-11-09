@@ -113,15 +113,16 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">🎧 Favorite Track</p>
-  <p align="center">
-    <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">
-      <img src="https://img.shields.io/badge/Now_Playing-LEGACY_(slowed_down)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
+<p align="center">
+  <a href="https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc" target="_blank">
+    <img src="https://img.shields.io/badge/Now_Playing-addiction_(Slowed)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
+  </a>
+</p>
     </a>
   </p>
 
   <br>
 
-  <!-- About Me Badge (Ungu) -->
   <p style="font-size: 1.3em; font-weight: bold;">👤 About Me</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Role-Solo_Developer-8A2BE2?style=flat-square" />
