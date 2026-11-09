@@ -84,12 +84,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=31" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=31" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=32" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=32" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=31" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=32" alt="Top Languages" />
   </p>
 
   <br>
@@ -122,27 +122,14 @@
   <br>
 
   <p style="font-size: 1.3em; font-weight: bold;">👤 About Me</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Role-Solo_Developer-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Cyber_Enthusiast-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Interest-Hardware_Hacking-8A2BE2?style=flat-square" />
+    <img src="https://img.shields.io/badge/Loves-ESP32_&_Flipper_Zero-8A2BE2?style=flat-square" />
+  </p>
   
-  <table align="center" style="border: none; font-family: monospace; font-size: 13px; color: #c9d1d9;">
-    <tr style="border: none;">
-      <td align="right" style="border: none; padding: 4px 10px; color: #8b949e;">Role</td>
-      <td style="border: none; padding: 4px 10px;"><b>Solo Developer</b></td>
-    </tr>
-    <tr style="border: none;">
-      <td align="right" style="border: none; padding: 4px 10px; color: #8b949e;">Focus</td>
-      <td style="border: none; padding: 4px 10px;"><b>Cyber Enthusiast</b></td>
-    </tr>
-    <tr style="border: none;">
-      <td align="right" style="border: none; padding: 4px 10px; color: #8b949e;">Interest</td>
-      <td style="border: none; padding: 4px 10px;"><b>Hardware Hacking</b></td>
-    </tr>
-    <tr style="border: none;">
-      <td align="right" style="border: none; padding: 4px 10px; color: #8b949e;">Loves</td>
-      <td style="border: none; padding: 4px 10px;"><b>ESP32 & Flipper Zero</b></td>
-    </tr>
-  </table>
-  
-  <p align="center" style="font-size: 13px; color: #8b949e; margin-top: 10px;">
+  <p align="center" style="font-size: 13px; color: #8b949e;">
     <i>Building lightweight security automation tools (Node.js & Python) for Termux/Linux.</i>
   </p>
 
