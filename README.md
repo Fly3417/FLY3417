@@ -84,12 +84,12 @@
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=32" alt="GitHub Stats" height="150" />
-    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=32" alt="GitHub Streak" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&v=34" alt="GitHub Stats" height="150" />
+    <img src="https://streak-stats.demolab.com/?user=Fly3417&theme=nightowl&hide_border=true&v=34" alt="GitHub Streak" height="150" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=32" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fly3417&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&v=34" alt="Top Languages" />
   </p>
 
   <br>
@@ -115,7 +115,7 @@
   <p style="font-size: 1.3em; font-weight: bold;">🎧 Now Playing</p>
   <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ymvbnyyqk6oxw3rlformzbqodq&redirect=true" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ymvbnyyqk6oxw3rlformzbqodq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ymvbnyyqk6oxw3rlformzbqodq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
     </a>
   </p>
 
