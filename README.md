@@ -112,12 +112,10 @@
 
   <br>
 
-  <p style="font-size: 1.3em; font-weight: bold;">🎧 Favorite Track</p>
-<p align="center">
-  <a href="https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-addiction_(Slowed)-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song" />
-  </a>
-</p>
+  <p style="font-size: 1.3em; font-weight: bold;">🎧 Now Playing</p>
+  <p align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ymvbnyyqk6oxw3rlformzbqodq&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ymvbnyyqk6oxw3rlformzbqodq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify Now Playing">
     </a>
   </p>
 
