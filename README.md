@@ -83,18 +83,6 @@
   
   <br>
 
-  <p style="font-size: 1.3em; font-weight: bold;">🚀 Featured Project</p>
-  <p align="center">
-    <a href="https://github.com/Fly3417/7Toolkits">
-      <img src="https://github-readme-stats.shion.dev/api/pin/?username=Fly3417&repo=7Toolkits&theme=nightowl&hide_border=true" />
-    </a>
-  </p>
-  <p align="center" style="font-size: 13px; color: #8b949e;">
-    <i>7Toolkits: Cross-platform offensive security toolkit. Built from scratch with Rust, Vue, and Tauri 2. No root required.</i>
-  </p>
-
-  <br>
-
   <p style="font-size: 1.3em; font-weight: bold;">📊 GitHub Analytics</p>
   
   <p align="center">
@@ -141,7 +129,6 @@
     <img src="https://img.shields.io/badge/Focus-Cyber_Enthusiast-8A2BE2?style=flat-square" />
     <img src="https://img.shields.io/badge/Interest-Hardware_Hacking-8A2BE2?style=flat-square" />
     <img src="https://img.shields.io/badge/Loves-ESP32_&_Flipper_Zero-8A2BE2?style=flat-square" />
-    <img src="https://img.shields.io/badge/Current_Project-7Toolkits-blueviolet?style=flat-square" />
   </p>
   
   <p align="center" style="font-size: 13px; color: #8b949e;">
