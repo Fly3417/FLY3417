@@ -1,7 +1,3 @@
-<p align="center" style="font-size: 1.1em; color: #c9d1d9; margin-top: 20px;">
-  Hi, I'm <b>SevenByte</b> 👋 — A Security Researcher & Builder. I build lightweight security automation tools for Termux/Linux and love exploring hardware hacking (ESP32 & Flipper Zero).
-</p>
-
 <div align="center">
 
   <p align="center">
